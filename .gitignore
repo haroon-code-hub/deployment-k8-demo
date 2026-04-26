@@ -1,0 +1,35 @@
+# Kubernetes
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+vendor/
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.out
+
+# OS
+Thumbs.db
+.AppleDouble
+.LSOverride
